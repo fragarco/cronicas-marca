@@ -1,0 +1,83 @@
+{
+    "title": "Crónicas de la Marca (contenido)",
+    "description": "Conjuros, equipo, monstruos y el resto del contenido necesario para jugar a Cróncias de la Marca usando el sistema de C&C.",
+    "version": "1.0.0",
+    "id": "cronicas-marca",
+    "compatibility": {
+      "minimum": "12",
+      "verified": "12"
+    },
+    "relationships": {
+      "systems": [
+        {
+          "id": "castles-and-crusades",
+          "type": "system"
+        }
+      ]
+    },
+    "authors": [
+      {
+        "name": "Javier 'Dwayne Hicks' Garcia",
+        "url": "https://cabohicks.blogspot.com"
+      },
+      {
+        "name": "Ricardo Silla"
+      }
+    ],
+    "packs": [
+      {
+        "label": "Conjuros",
+        "type": "Item",
+        "name": "conjuros",
+        "path": "packs/conjuros",
+        "system": "castles-and-crusades",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "flags": {}
+      },
+      {
+        "label": "Equipo",
+        "type": "Item",
+        "name": "equipo",
+        "path": "packs/equipo",
+        "system": "castles-and-crusades",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "flags": {}
+      },
+      {
+        "label": "Habilidades",
+        "type": "Item",
+        "name": "habilidades",
+        "path": "packs/habilidades",
+        "system": "castles-and-crusades",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "flags": {}
+      },
+      {
+        "label": "Monstruos",
+        "type": "Actor",
+        "name": "monstruos",
+        "path": "packs/monstruos",
+        "system": "castles-and-crusades",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "flags": {}
+      }
+    ],
+    "esmodules": [
+    ],
+    "url": "https://github.com/fragarco/cronicas-marca",
+    "manifest": "https://github.com/fragarco/cronicas-marca/releases/download/v1.0.0/module.json",
+    "download": "https://github.com/fragarco/cronicas-marca/releases/download/v1.0.0/cronicas-marca.zip"
+  }
+  
