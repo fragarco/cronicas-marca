@@ -26,31 +26,7 @@
     ],
     "packs": [
       {
-        "label": "Conjuros",
-        "type": "Item",
-        "name": "conjuros",
-        "path": "packs/conjuros",
-        "system": "castles-and-crusades",
-        "ownership": {
-          "PLAYER": "OBSERVER",
-          "ASSISTANT": "OWNER"
-        },
-        "flags": {}
-      },
-      {
-        "label": "Equipo",
-        "type": "Item",
-        "name": "equipo",
-        "path": "packs/equipo",
-        "system": "castles-and-crusades",
-        "ownership": {
-          "PLAYER": "OBSERVER",
-          "ASSISTANT": "OWNER"
-        },
-        "flags": {}
-      },
-      {
-        "label": "Habilidades",
+        "label": "Crónicas - Items",
         "type": "Item",
         "name": "habilidades",
         "path": "packs/habilidades",
@@ -62,7 +38,7 @@
         "flags": {}
       },
       {
-        "label": "Monstruos",
+        "label": "Crónicas - Actores",
         "type": "Actor",
         "name": "monstruos",
         "path": "packs/monstruos",
@@ -71,6 +47,14 @@
           "PLAYER": "OBSERVER",
           "ASSISTANT": "OWNER"
         },
+        "flags": {}
+      }
+    ],
+    "languages": [
+      {
+        "lang": "es",
+        "name": "Spanish",
+        "path": "lang/es.json",
         "flags": {}
       }
     ],
