@@ -1,22 +1,11 @@
-2025/05/23-16:19:06.437 47b8 Recovering log #50
-2025/05/23-16:19:06.440 47b8 Level-0 table #53: started
-2025/05/23-16:19:06.448 47b8 Level-0 table #53: 331853 bytes OK
-2025/05/23-16:19:06.454 47b8 Delete type=0 #50
-2025/05/23-16:19:06.454 47b8 Delete type=3 #49
-2025/05/23-16:27:02.450 20b0 Compacting 1@0 + 1@1 files
-2025/05/23-16:27:02.462 20b0 Generated table #55@0: 458 keys, 295187 bytes
-2025/05/23-16:27:02.462 20b0 Compacted 1@0 + 1@1 files => 295187 bytes
-2025/05/23-16:27:02.471 20b0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/23-16:27:02.471 20b0 Delete type=2 #51
-2025/05/23-16:27:02.472 20b0 Delete type=2 #53
-2025/05/23-17:10:29.472 20b0 Level-0 table #57: started
-2025/05/23-17:10:29.528 20b0 Level-0 table #57: 704847 bytes OK
-2025/05/23-17:10:29.530 20b0 Delete type=0 #54
-2025/05/23-17:10:29.544 20b0 Manual compaction at level-0 from '!folders!1DTS8ZqzgICWdHyu' @ 72057594037927935 : 1 .. '!items!zzwZJVub84G99Uuh' @ 0 : 0; will stop at '!items!zzwZJVub84G99Uuh' @ 1057 : 1
-2025/05/23-17:10:29.544 20b0 Compacting 1@0 + 1@1 files
-2025/05/23-17:10:29.553 20b0 Generated table #58@0: 668 keys, 512062 bytes
-2025/05/23-17:10:29.553 20b0 Compacted 1@0 + 1@1 files => 512062 bytes
-2025/05/23-17:10:29.556 20b0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/23-17:10:29.556 20b0 Delete type=2 #55
-2025/05/23-17:10:29.556 20b0 Delete type=2 #57
-2025/05/23-17:10:29.583 20b0 Manual compaction at level-0 from '!items!zzwZJVub84G99Uuh' @ 1057 : 1 .. '!items!zzwZJVub84G99Uuh' @ 0 : 0; will stop at (end)
+2025/05/31-11:44:02.210 23a4 Recovering log #72
+2025/05/31-11:44:02.223 23a4 Level-0 table #74: started
+2025/05/31-11:44:02.250 23a4 Level-0 table #74: 312092 bytes OK
+2025/05/31-11:44:02.258 23a4 Delete type=0 #72
+2025/05/31-11:44:02.258 23a4 Delete type=3 #71
+2025/05/31-11:47:50.527 384c Compacting 1@0 + 1@1 files
+2025/05/31-11:47:50.587 384c Generated table #76@0: 753 keys, 603396 bytes
+2025/05/31-11:47:50.587 384c Compacted 1@0 + 1@1 files => 603396 bytes
+2025/05/31-11:47:50.597 384c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/31-11:47:50.597 384c Delete type=2 #58
+2025/05/31-11:47:50.598 384c Delete type=2 #74
