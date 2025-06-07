@@ -61,6 +61,6 @@
     "esmodules": [
     ],
     "url": "https://github.com/fragarco/cronicas-marca",
-    "manifest": "https://raw.githubusercontent.com/fragarco/cronicas-marca/refs/heads/release/module.json",
+    "manifest": "https://raw.githubusercontent.com/fragarco/cronicas-marca/main/module.json",
     "download": "https://github.com/fragarco/cronicas-marca/archive/refs/tags/v1.0.0.zip"
 }
